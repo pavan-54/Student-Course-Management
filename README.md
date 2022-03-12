@@ -1,4 +1,4 @@
-# Student-Couirse-Management-
+# Student-Course-Management-
 
 This project is developed and implemented in java
 
